@@ -1,6 +1,6 @@
 {
   "name" : "Rich Text Editor Pro",
-  "version" : "20.1",
+  "version" : "22.1",
   "description" : "United Codes Rich Text Editor Pro integrates the popular Froala WSYIWYG Editor into an awesome plug-in for Oracle APEX. This enhanced HTML/Rich Text editor takes care of the CLOB handling for you - so you don't have to worry about the 32,767 character limit! Easily handles images, is highly customizable, and supports multiple languages.",
   "keywords" : ["HTML Editor","RTE","Rich Text Editor","clob","image","TUI","32k","Froala"],
   "homepage" : "https://www.plug-ins-pro.com/",
