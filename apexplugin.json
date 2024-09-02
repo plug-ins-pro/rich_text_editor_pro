@@ -1,11 +1,11 @@
 {
   "name" : "Rich Text Editor Pro",
-  "version" : "23.2.3",
-  "description" : "United Codes Rich Text Editor Pro integrates the popular Froala WSYIWYG Editor into an awesome plug-in for Oracle APEX. This enhanced HTML/Rich Text editor takes care of the CLOB handling for you - so you don't have to worry about the 32,767 character limit! Easily handles images, is highly customizable, and supports multiple languages.",
+  "version" : "21.1",
+  "description" : "Rich Text Editor Pro by United Codes revolutionizes image management in Oracle APEX by seamlessly integrating the powerful Froala WYSIWYG Editor into your applications. This enhanced HTML/Rich Text editor goes beyond simple text editing, offering robust image handling capabilities. Effortlessly upload images on page submission or on demand, and save them directly in your database, all while associating images with specific documents for streamlined management. When users remove images from the editor, the plug-in can automatically handle image deletion in the database, ensuring your data stays clean and organized. Experience complete control over your content with this highly customizable, user-friendly editor, designed to enhance your Oracle APEX projects.",
   "keywords" : ["HTML Editor","RTE","Rich Text Editor","clob","image","TUI","32k","Froala"],
-  "homepage" : "https://www.plug-ins-pro.com/",
+  "homepage" : "https://www.united-codes.com/ords/links/plugins/rich-text-editor-pro/buynow/",
   "bugs" : {
-    "url" : "https://github.com/plug-ins-pro/rich_text_editor_pro/issues",
+    "url" : "https://www.united-codes.com/ords/links/products/plugins-pro/support/",
     "email" : "support@plug-ins-pro.com"
   },
   "license" : "Commercial",
@@ -22,12 +22,12 @@
  "oracle" : {
     "versions" : ["12.x", "18.x", "19.x", "21.x"],
     "apex" : {
-      "versions" : ["19.2.0", "20.1.0", "20.2.0", "21.1.0", "21.2.0", "22.1.0", "22.2.0", "23.1.0"],
+      "versions" : ["19.2.0", "20.1.0", "20.2.0", "21.1.0", "21.2.0", "22.1.0", "22.2.0", "23.1.0", "24.1.3"],
       "plugin" : {
         "internalName" : "UNITEDCODES_FROALA_RTE",
         "type" : "item",
-        "demo" : "https://www.united-codes.com/ords/pluginspro_web/r/rich_text_editor_pro/home",
-        "previewImage" : "https://www.united-codes.com/ords/pluginspro_web/r/rich_text_editor_pro/files/static/v70/Froala.png"
+        "demo" : "https://www.united-codes.com/ords/links/plugins/rich-text-editor-pro/app/",
+        "previewImage" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/rich_text_editor_pro/files/static/v70/Froala.png"
       }
     }
   }
