@@ -1,6 +1,6 @@
 {
   "name" : "Rich Text Editor Pro",
-  "version" : "21.1",
+  "version" : "24.1",
   "description" : "Rich Text Editor Pro by United Codes revolutionizes image management in Oracle APEX by seamlessly integrating the powerful Froala WYSIWYG Editor into your applications. This enhanced HTML/Rich Text editor goes beyond simple text editing, offering robust image handling capabilities. Effortlessly upload images on page submission or on demand, and save them directly in your database, all while associating images with specific documents for streamlined management. When users remove images from the editor, the plug-in can automatically handle image deletion in the database, ensuring your data stays clean and organized. Experience complete control over your content with this highly customizable, user-friendly editor, designed to enhance your Oracle APEX projects.",
   "keywords" : ["HTML Editor","RTE","Rich Text Editor","clob","image","TUI","32k","Froala"],
   "homepage" : "https://www.united-codes.com/ords/links/plugins/rich-text-editor-pro/buynow/",
